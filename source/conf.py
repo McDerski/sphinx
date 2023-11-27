@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Zadanie'
-copyright = '2023, Daniel Długajczyk'
-author = 'Daniel Długajczyk'
-release = '0.1'
+project = 'zadanko'
+copyright = '2023, Daniel Dlugajczyk'
+author = 'Daniel Dlugajczyk'
+release = '0.0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -19,7 +19,7 @@ extensions = []
 templates_path = ['_templates']
 exclude_patterns = []
 
-
+language = 'pl'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
